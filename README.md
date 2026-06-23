@@ -52,21 +52,8 @@
 
 ## 💬 About Me
 
-```typescript
-const developer: Profile = {
-  name: "Anjali Gupta",
-  role: "Full Stack Developer",
-  languages: ["Java", "TypeScript", "Python", "JavaScript"],
-  frameworks: ["Spring Boot", "React", "Next.js", "Django", "Node.js"],
-  interests: ["AI Engineering", "DevOps", "SaaS Products", "Clean Architecture"],
-  currentlyBuilding: [
-    "IntelliOps — AI-powered DevOps engine",
-    "MyTokari — E-commerce platform"
-  ],
-  lookingFor: "Collaborations on impactful, production-grade projects 🚀",
-  funFact: "I built a compiler... just to understand how they work 🧠"
-};
-```
+- 🌩️ Full Stack Developer with **production-level experience** in developing SaaS Products
+- 🚀 Open for Collaborations on impactful, production-grade projects
 
 ---
 
