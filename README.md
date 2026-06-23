@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 Anjali Gupta — Developer Portfolio Dashboard
+# 🌟 Anjali Gupta
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+React+%7C+TypeScript;AI+%7C+DevOps+%7C+Cloud+Enthusiast;Building+products+with+purpose+%F0%9F%8C%B8" alt="Typing SVG" />
 
